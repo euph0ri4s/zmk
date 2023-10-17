@@ -31,7 +31,3 @@
 		label = "CDC_ACM_0";
 	};
 };
-
-&qspi {
-    status = "disabled";
-};
