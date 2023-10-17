@@ -51,7 +51,7 @@
 	};
 };
 
-&qspi {
+&xiao_spi {
 	compatible = "nordic,nrf-spim";
 	status = "disabled";
 
